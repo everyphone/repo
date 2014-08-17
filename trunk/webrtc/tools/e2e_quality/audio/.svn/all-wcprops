@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio
+END
+default.pa
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio/default.pa
+END
+audio_e2e_harness.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio/audio_e2e_harness.cc
+END
+daemon.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio/daemon.conf
+END
+run_audio_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio/run_audio_test.py
+END
+perf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio/perf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4949/trunk/webrtc/tools/e2e_quality/audio/README
+END

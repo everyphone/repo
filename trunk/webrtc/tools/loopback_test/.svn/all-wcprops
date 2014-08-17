@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5881/trunk/webrtc/tools/loopback_test
+END
+adapter.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5799/trunk/webrtc/tools/loopback_test/adapter.js
+END
+loopback_test.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5881/trunk/webrtc/tools/loopback_test/loopback_test.html
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5707/trunk/webrtc/tools/loopback_test/OWNERS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5707/trunk/webrtc/tools/loopback_test/README
+END
+run-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5707/trunk/webrtc/tools/loopback_test/run-server.sh
+END
+stat_tracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5799/trunk/webrtc/tools/loopback_test/stat_tracker.js
+END
+record-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5707/trunk/webrtc/tools/loopback_test/record-test.sh
+END
+loopback_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5879/trunk/webrtc/tools/loopback_test/loopback_test.js
+END

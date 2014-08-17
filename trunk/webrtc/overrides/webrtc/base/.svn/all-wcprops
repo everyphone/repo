@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6215/trunk/webrtc/overrides/webrtc/base
+END
+logging.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6173/trunk/webrtc/overrides/webrtc/base/logging.cc
+END
+constructormagic.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6129/trunk/webrtc/overrides/webrtc/base/constructormagic.h
+END
+basictypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6215/trunk/webrtc/overrides/webrtc/base/basictypes.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6129/trunk/webrtc/overrides/webrtc/base/logging.h
+END
+win32socketinit.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6129/trunk/webrtc/overrides/webrtc/base/win32socketinit.cc
+END

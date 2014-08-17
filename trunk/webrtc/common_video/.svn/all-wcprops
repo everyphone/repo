@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6595/trunk/webrtc/common_video
+END
+plane.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5587/trunk/webrtc/common_video/plane.cc
+END
+texture_video_frame_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6258/trunk/webrtc/common_video/texture_video_frame_unittest.cc
+END
+texture_video_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6258/trunk/webrtc/common_video/texture_video_frame.cc
+END
+plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5587/trunk/webrtc/common_video/plane.h
+END
+common_video.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5265/trunk/webrtc/common_video/common_video.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6523/trunk/webrtc/common_video/OWNERS
+END
+common_video_unittests.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6332/trunk/webrtc/common_video/common_video_unittests.gyp
+END
+common_video_unittests.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6427/trunk/webrtc/common_video/common_video_unittests.isolate
+END
+i420_video_frame_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6258/trunk/webrtc/common_video/i420_video_frame_unittest.cc
+END
+plane_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5071/trunk/webrtc/common_video/plane_unittest.cc
+END
+i420_video_frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6258/trunk/webrtc/common_video/i420_video_frame.cc
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6595/trunk/webrtc/common_video/BUILD.gn
+END

@@ -1,0 +1,40 @@
+10
+
+dir
+6914
+http://webrtc.googlecode.com/svn/trunk/data
+http://webrtc.googlecode.com/svn
+
+
+
+2014-08-12T07:35:52.877749Z
+6868
+bjornv@webrtc.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4adac7df-926f-26a2-2b94-8c16560cd09d
+
+rtp_rtcp
+dir
+
+audio_processing
+dir
+
+common_video
+dir
+
+voice_engine
+dir
+

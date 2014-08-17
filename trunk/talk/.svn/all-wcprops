@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/6911/trunk/talk
+END
+libjingle_sound_unittest.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6427/trunk/talk/libjingle_sound_unittest.isolate
+END
+libjingle_peerconnection_unittest.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6427/trunk/talk/libjingle_peerconnection_unittest.isolate
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4356/trunk/talk/COPYING
+END
+libjingle_examples.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6767/trunk/talk/libjingle_examples.gyp
+END
+LICENSE_THIRD_PARTY
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4356/trunk/talk/LICENSE_THIRD_PARTY
+END
+libjingle_media_unittest.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6427/trunk/talk/libjingle_media_unittest.isolate
+END
+libjingle.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6854/trunk/talk/libjingle.gyp
+END
+libjingle_unittest.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6427/trunk/talk/libjingle_unittest.isolate
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/5904/trunk/talk/OWNERS
+END
+libjingle_p2p_unittest.isolate
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6427/trunk/talk/libjingle_p2p_unittest.isolate
+END
+libjingle_tests.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6841/trunk/talk/libjingle_tests.gyp
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6893/trunk/talk/PRESUBMIT.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/5042/trunk/webrtc/test/win
+END
+run_loop_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5042/trunk/webrtc/test/win/run_loop_win.cc
+END
+d3d_renderer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5042/trunk/webrtc/test/win/d3d_renderer.cc
+END
+d3d_renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5042/trunk/webrtc/test/win/d3d_renderer.h
+END
