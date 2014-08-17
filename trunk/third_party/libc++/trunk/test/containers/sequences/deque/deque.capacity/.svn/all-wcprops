@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/deque/deque.capacity
+END
+access.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/deque/deque.capacity/access.pass.cpp
+END
+shrink_to_fit.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/deque/deque.capacity/shrink_to_fit.pass.cpp
+END
+resize_size_value.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/deque/deque.capacity/resize_size_value.pass.cpp
+END
+resize_size.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/deque/deque.capacity/resize_size.pass.cpp
+END

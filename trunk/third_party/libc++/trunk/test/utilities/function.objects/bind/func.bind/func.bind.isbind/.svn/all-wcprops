@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/bind/func.bind/func.bind.isbind
+END
+is_placeholder.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/bind/func.bind/func.bind.isbind/is_placeholder.pass.cpp
+END
+is_bind_expression.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/function.objects/bind/func.bind/func.bind.isbind/is_bind_expression.pass.cpp
+END

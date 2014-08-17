@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/285378/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder
+END
+vp9_read_bit_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/263021/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_read_bit_buffer.h
+END
+vp9_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_reader.h
+END
+vp9_dsubexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_dsubexp.c
+END
+vp9_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_decoder.h
+END
+vp9_dthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_dthread.c
+END
+vp9_dsubexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_dsubexp.h
+END
+vp9_dthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_dthread.h
+END
+vp9_decodemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_decodemv.c
+END
+vp9_decodemv.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/263021/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_decodemv.h
+END
+vp9_decodeframe.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/285378/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_decodeframe.c
+END
+vp9_detokenize.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_detokenize.c
+END
+vp9_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_reader.c
+END
+vp9_read_bit_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_read_bit_buffer.c
+END
+vp9_decodeframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_decodeframe.h
+END
+vp9_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_decoder.c
+END
+vp9_detokenize.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/263021/trunk/deps/third_party/libvpx/source/libvpx/vp9/decoder/vp9_detokenize.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.transform
+END
+unary_transform.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.transform/unary_transform.pass.cpp
+END
+binary_transform.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.transform/binary_transform.pass.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.modifiers/string_op_plus_equal
+END
+initializer_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.modifiers/string_op_plus_equal/initializer_list.pass.cpp
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.modifiers/string_op_plus_equal/pointer.pass.cpp
+END
+string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.modifiers/string_op_plus_equal/string.pass.cpp
+END
+char.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.modifiers/string_op_plus_equal/char.pass.cpp
+END

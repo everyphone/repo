@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6047/trunk/resources/remote_bitrate_estimator
+END
+VideoSendersTest_BweTest_SteadyDelay_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyDelay_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyDelay_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyDelay_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_UnlimitedSpeed_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_UnlimitedSpeed_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_Multi1_1_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_Multi1_1_AST.bin.sha1
+END
+VideoSendersTest_BweTest_UnlimitedSpeed_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_UnlimitedSpeed_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_Multi1_1_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_Multi1_1_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke1_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke1_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke1_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke1_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke2_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke2_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke1_1_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke1_1_AST.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke2_1_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke2_1_AST.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke1_1_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke1_1_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke2_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke2_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingChoke2_1_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingChoke2_1_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingDelay1_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingDelay1_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingDelay1_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingDelay1_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyLoss_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyLoss_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyLoss_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyLoss_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyChoke_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyChoke_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingLoss1_0_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingLoss1_0_AST.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyChoke_1_AST.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyChoke_1_AST.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyChoke_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyChoke_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_IncreasingLoss1_0_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_IncreasingLoss1_0_TOF.bin.sha1
+END
+VideoSendersTest_BweTest_SteadyChoke_1_TOF.bin.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5204/trunk/resources/remote_bitrate_estimator/VideoSendersTest_BweTest_SteadyChoke_1_TOF.bin.sha1
+END

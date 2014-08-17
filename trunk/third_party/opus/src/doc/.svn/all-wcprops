@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/doc
+END
+build_draft.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/build_draft.sh
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/Doxyfile.in
+END
+header.html.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/header.html.patch
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/162558/trunk/deps/third_party/opus/doc/header.html
+END
+footer.html.patch
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/footer.html.patch
+END
+customdoxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/162558/trunk/deps/third_party/opus/doc/customdoxygen.css
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/162558/trunk/deps/third_party/opus/doc/footer.html
+END
+draft-ietf-payload-rtp-opus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/draft-ietf-payload-rtp-opus.xml
+END
+opus_logo.svg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/162558/trunk/deps/third_party/opus/doc/opus_logo.svg
+END
+trivial_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/doc/trivial_example.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/doc/Makefile.am
+END
+draft-ietf-codec-oggopus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/draft-ietf-codec-oggopus.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/doc/Makefile.in
+END
+draft-ietf-codec-opus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/draft-ietf-codec-opus.xml
+END
+draft-valin-codec-opus-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/draft-valin-codec-opus-update.xml
+END
+build_oggdraft.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/doc/build_oggdraft.sh
+END

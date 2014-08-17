@@ -1,0 +1,104 @@
+10
+
+dir
+206024
+http://src.chromium.org/llvm-project/libcxx/trunk/test/iterators/predef.iterators/move.iterators/move.iter.ops
+http://src.chromium.org/llvm-project
+
+
+
+2013-08-27T13:03:03.203712Z
+189345
+marshall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13822387-51bd-4730-8a9b-04cb6d7d6f7b
+
+move.iter.op.conv
+dir
+
+move.iter.nonmember
+dir
+
+move.iter.op.index
+dir
+
+move.iter.op.star
+dir
+
+move.iter.op.ref
+dir
+
+move.iter.op.decr
+dir
+
+move.iter.op.const
+dir
+
+move.iter.op.+=
+dir
+
+move.iter.op.-=
+dir
+
+move.iter.op.+
+dir
+
+move.iter.op.incr
+dir
+
+nothing_to_do.pass.cpp
+file
+
+
+
+
+2014-08-16T17:11:00.734285Z
+de8ffdb592ab304b14832467aef77cb3
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+372
+
+move.iter.op.-
+dir
+
+move.iter.op=
+dir
+
+move.iter.op.comp
+dir
+

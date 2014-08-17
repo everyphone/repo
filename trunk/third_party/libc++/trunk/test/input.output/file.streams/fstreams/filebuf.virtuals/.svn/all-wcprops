@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals
+END
+pbackfail.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals/pbackfail.pass.cpp
+END
+underflow_utf8.dat
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/llvm-project/!svn/ver/104952/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals/underflow_utf8.dat
+END
+seekoff.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals/seekoff.pass.cpp
+END
+overflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals/overflow.pass.cpp
+END
+underflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals/underflow.pass.cpp
+END
+underflow.dat
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/111845/libcxx/trunk/test/input.output/file.streams/fstreams/filebuf.virtuals/underflow.dat
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon
+END
+vp9_mb_lpf_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_mb_lpf_neon.asm
+END
+vp9_idct16x16_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct16x16_add_neon.asm
+END
+vp9_dc_only_idct_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/213674/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_dc_only_idct_add_neon.asm
+END
+vp9_idct8x8_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/271029/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct8x8_add_neon.asm
+END
+vp9_reconintra_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_reconintra_neon.asm
+END
+vp9_iht8x8_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_iht8x8_add_neon.asm
+END
+vp9_copy_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/219829/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_copy_neon.asm
+END
+vp9_idct4x4_1_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct4x4_1_add_neon.asm
+END
+vp9_avg_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/219829/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_avg_neon.asm
+END
+vp9_idct32x32_1_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct32x32_1_add_neon.asm
+END
+vp9_loopfilter_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_loopfilter_neon.asm
+END
+vp9_convolve8_avg_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/219829/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_convolve8_avg_neon.asm
+END
+vp9_idct16x16_1_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct16x16_1_add_neon.asm
+END
+vp9_convolve8_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/219829/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_convolve8_neon.asm
+END
+vp9_idct8x8_1_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct8x8_1_add_neon.asm
+END
+vp9_loopfilter_16_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_loopfilter_16_neon.asm
+END
+vp9_loopfilter_16_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_loopfilter_16_neon.c
+END
+vp9_idct4x4_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct4x4_add_neon.asm
+END
+vp9_idct16x16_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct16x16_neon.c
+END
+vp9_save_reg_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_save_reg_neon.asm
+END
+vp9_iht4x4_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_iht4x4_add_neon.asm
+END
+vp9_convolve_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_convolve_neon.c
+END
+vp9_idct32x32_add_neon.asm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_idct32x32_add_neon.asm
+END

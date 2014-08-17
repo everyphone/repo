@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/288251/trunk/src/third_party/boringssl
+END
+boringssl.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/boringssl.gypi
+END
+boringssl_tests.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/288251/trunk/src/third_party/boringssl/boringssl_tests.gypi
+END
+boringssl_nacl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/284729/trunk/src/third_party/boringssl/boringssl_nacl.gyp
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/279799/trunk/src/third_party/boringssl/OWNERS
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/279799/trunk/src/third_party/boringssl/README.chromium
+END
+boringssl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/288251/trunk/src/third_party/boringssl/boringssl.gyp
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/279799/trunk/src/third_party/boringssl/NOTICE
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/BUILD.gn
+END
+boringssl_tests.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/288251/trunk/src/third_party/boringssl/boringssl_tests.gyp
+END
+update_gypi_and_asm.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/288251/trunk/src/third_party/boringssl/update_gypi_and_asm.py
+END
+boringssl_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/286953/trunk/src/third_party/boringssl/boringssl_unittest.cc
+END

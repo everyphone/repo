@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/llvm-project/!svn/ver/203070/libcxx/trunk/test/extensions/hash
+END
+specializations.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/203070/libcxx/trunk/test/extensions/hash/specializations.pass.cpp
+END
+specializations.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/203070/libcxx/trunk/test/extensions/hash/specializations.fail.cpp
+END

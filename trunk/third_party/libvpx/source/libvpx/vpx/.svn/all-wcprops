@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/285378/trunk/deps/third_party/libvpx/source/libvpx/vpx
+END
+vp8cx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vpx/vp8cx.h
+END
+vp8dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/vpx/vp8dx.h
+END
+exports_dec
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vpx/exports_dec
+END
+vpx_codec.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_codec.mk
+END
+vpx_integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_integer.h
+END
+vpx_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_codec.h
+END
+exports_com
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/106910/trunk/deps/third_party/libvpx/source/libvpx/vpx/exports_com
+END
+vpx_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/285378/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_encoder.h
+END
+vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vpx/vp8.h
+END
+svc_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/vpx/svc_context.h
+END
+vpx_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_image.h
+END
+vpx_frame_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_frame_buffer.h
+END
+vpx_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vpx/vpx_decoder.h
+END
+exports_enc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/vpx/exports_enc
+END

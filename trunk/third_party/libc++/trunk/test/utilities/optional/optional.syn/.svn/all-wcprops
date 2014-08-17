@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn
+END
+optional_includes_initializer_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_includes_initializer_list.pass.cpp
+END
+optional_nullopt_t.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_nullopt_t.fail.cpp
+END
+optional_const_in_place_t.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_const_in_place_t.fail.cpp
+END
+optional_lvalue_ref.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_lvalue_ref.fail.cpp
+END
+optional_const_nullopt_t.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_const_nullopt_t.fail.cpp
+END
+optional_const_lvalue_ref.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_const_lvalue_ref.fail.cpp
+END
+optional_rvalue_ref.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_rvalue_ref.fail.cpp
+END
+optional_in_place_t.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.syn/optional_in_place_t.fail.cpp
+END

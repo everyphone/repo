@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests
+END
+test10-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test10-original.cc
+END
+test11-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test11-original.cc
+END
+test12-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test12-original.cc
+END
+test1-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test1-expected.cc
+END
+test2-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test2-expected.cc
+END
+scoped_refptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/scoped_refptr.h
+END
+test3-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test3-expected.cc
+END
+test1-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test1-original.cc
+END
+test4-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test4-expected.cc
+END
+test2-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test2-original.cc
+END
+test5-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test5-expected.cc
+END
+test3-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test3-original.cc
+END
+test6-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test6-expected.cc
+END
+test7-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test7-expected.cc
+END
+test4-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test4-original.cc
+END
+test8-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test8-expected.cc
+END
+test5-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test5-original.cc
+END
+test9-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test9-expected.cc
+END
+test6-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test6-original.cc
+END
+test7-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test7-original.cc
+END
+test8-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test8-original.cc
+END
+test9-original.cc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test9-original.cc
+END
+test10-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test10-expected.cc
+END
+test11-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test11-expected.cc
+END
+test12-expected.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/288163/trunk/src/tools/clang/rewrite_scoped_refptr/tests/test12-expected.cc
+END

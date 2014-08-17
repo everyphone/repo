@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.replace
+END
+replace_copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.replace/replace_copy.pass.cpp
+END
+replace_if.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.replace/replace_if.pass.cpp
+END
+replace.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.replace/replace.pass.cpp
+END
+replace_copy_if.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.replace/replace_copy_if.pass.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source
+END
+cpu_id.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/cpu_id.cc
+END
+row_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/row_win.cc
+END
+scale_win.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/scale_win.cc
+END
+planar_functions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/planar_functions.cc
+END
+row_neon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/row_neon.cc
+END
+scale_neon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/scale_neon.cc
+END
+scale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/scale.cc
+END
+row_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/row_posix.cc
+END
+scale_posix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/scale_posix.cc
+END
+row_any.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/row_any.cc
+END
+row_common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/row_common.cc
+END
+row_mips.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/row_mips.cc
+END
+scale_common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/scale_common.cc
+END
+scale_mips.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/libyuv/source/scale_mips.cc
+END

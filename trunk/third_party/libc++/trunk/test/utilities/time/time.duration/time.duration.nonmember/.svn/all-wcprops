@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember
+END
+op_mod_duration.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_mod_duration.pass.cpp
+END
+op_mod_rep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_mod_rep.pass.cpp
+END
+op_times_rep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_times_rep.pass.cpp
+END
+op_divide_duration.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_divide_duration.pass.cpp
+END
+op_+.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_+.pass.cpp
+END
+op_divide_rep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_divide_rep.pass.cpp
+END
+op_mod_rep.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_mod_rep.fail.cpp
+END
+op_-.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/160184/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_-.pass.cpp
+END
+op_times_rep1.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_times_rep1.fail.cpp
+END
+op_times_rep2.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_times_rep2.fail.cpp
+END
+op_divide_rep.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/utilities/time/time.duration/time.duration.nonmember/op_divide_rep.fail.cpp
+END

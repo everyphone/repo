@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 63
+*.BIT20
+*.BIT30
+*.INP
+*.OUT20
+*.OUT30
+*.chn
+*.dat
+*.pcm
+*.rtp
+
+
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/mac-x86/crypto/aes
+END
+vpaes-x86.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/mac-x86/crypto/aes/vpaes-x86.S
+END
+aesni-x86.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/mac-x86/crypto/aes/aesni-x86.S
+END
+aes-586.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/mac-x86/crypto/aes/aes-586.S
+END

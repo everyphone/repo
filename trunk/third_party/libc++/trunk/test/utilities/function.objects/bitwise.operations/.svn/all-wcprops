@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/llvm-project/!svn/ver/199400/libcxx/trunk/test/utilities/function.objects/bitwise.operations
+END
+bit_not.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/191626/libcxx/trunk/test/utilities/function.objects/bitwise.operations/bit_not.pass.cpp
+END
+bit_or.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/llvm-project/!svn/ver/191626/libcxx/trunk/test/utilities/function.objects/bitwise.operations/bit_or.pass.cpp
+END
+bit_and.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/191626/libcxx/trunk/test/utilities/function.objects/bitwise.operations/bit_and.pass.cpp
+END
+transparent.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/199400/libcxx/trunk/test/utilities/function.objects/bitwise.operations/transparent.pass.cpp
+END
+bit_xor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/191626/libcxx/trunk/test/utilities/function.objects/bitwise.operations/bit_xor.pass.cpp
+END

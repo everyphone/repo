@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/283894/trunk/src/third_party/opus
+END
+opus_srcs.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/280815/trunk/src/third_party/opus/opus_srcs.gypi
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/205865/trunk/src/third_party/opus/OWNERS
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/266564/trunk/src/third_party/opus/README.chromium
+END
+convert_rtcd_assembler.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/280815/trunk/src/third_party/opus/convert_rtcd_assembler.py
+END
+opus_nacl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/280815/trunk/src/third_party/opus/opus_nacl.gyp
+END
+BUILD.gn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/283894/trunk/src/third_party/opus/BUILD.gn
+END
+opus_srcs_rtcd.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/266564/trunk/src/third_party/opus/opus_srcs_rtcd.gypi
+END
+opus.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/281729/trunk/src/third_party/opus/opus.gyp
+END
+opus_srcs_arm.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/266564/trunk/src/third_party/opus/opus_srcs_arm.gypi
+END

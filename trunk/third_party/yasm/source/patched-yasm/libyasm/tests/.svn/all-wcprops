@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests
+END
+strucsize.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/strucsize.hex
+END
+bitvect_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/bitvect_test.c
+END
+times0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/times0.asm
+END
+incbin.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/incbin.asm
+END
+value-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-err.errwarn
+END
+timesover-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/timesover-err.asm
+END
+times0.hex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/times0.hex
+END
+value-mask.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-mask.errwarn
+END
+expr-fold-level.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/expr-fold-level.asm
+END
+incbin.hex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/incbin.hex
+END
+equ-expand.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/equ-expand.asm
+END
+expr-fold-level.hex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/expr-fold-level.hex
+END
+splitpath_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/splitpath_test.c
+END
+equ-expand.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/equ-expand.hex
+END
+opt-circular1-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-circular1-err.asm
+END
+opt-align1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-align1.asm
+END
+opt-circular2-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-circular2-err.asm
+END
+opt-align2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-align2.asm
+END
+opt-circular3-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-circular3-err.asm
+END
+opt-align3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-align3.asm
+END
+duplabel-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/duplabel-err.errwarn
+END
+opt-align1.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-align1.hex
+END
+opt-align2.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-align2.hex
+END
+opt-align3.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-align3.hex
+END
+externdef.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/externdef.asm
+END
+1shl0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/1shl0.asm
+END
+externdef.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/externdef.hex
+END
+value-samesym.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-samesym.asm
+END
+libyasm_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/libyasm_test.sh
+END
+opt-oldalign.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-oldalign.asm
+END
+1shl0.hex
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/1shl0.hex
+END
+value-samesym.hex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-samesym.hex
+END
+opt-oldalign.hex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-oldalign.hex
+END
+leb128_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/leb128_test.c
+END
+jmpsize1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/jmpsize1.asm
+END
+jmpsize1.hex
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/jmpsize1.hex
+END
+times-res.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/times-res.asm
+END
+times-res.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/times-res.hex
+END
+reserve-err1.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/reserve-err1.errwarn
+END
+reserve-err2.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/reserve-err2.errwarn
+END
+absloop-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/absloop-err.errwarn
+END
+jmpsize1-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/jmpsize1-err.errwarn
+END
+emptydata.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/emptydata.asm
+END
+emptydata.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/emptydata.hex
+END
+charconst64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/charconst64.asm
+END
+unary.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/unary.asm
+END
+opt-struc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-struc.asm
+END
+charconst64.hex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/charconst64.hex
+END
+unary.hex
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/unary.hex
+END
+value-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-err.asm
+END
+timesover-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/timesover-err.errwarn
+END
+opt-struc.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-struc.hex
+END
+value-mask.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-mask.asm
+END
+value-mask.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-mask.hex
+END
+opt-circular1-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-circular1-err.errwarn
+END
+opt-circular2-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-circular2-err.errwarn
+END
+opt-circular3-err.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-circular3-err.errwarn
+END
+uncstring_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/uncstring_test.c
+END
+duplabel-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/duplabel-err.asm
+END
+opt-immnoexpand.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-immnoexpand.asm
+END
+timesunder.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/timesunder.asm
+END
+opt-immnoexpand.hex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-immnoexpand.hex
+END
+timesunder.hex
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/timesunder.hex
+END
+externdef.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/externdef.errwarn
+END
+opt-gvmat64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-gvmat64.asm
+END
+value-samesym.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/value-samesym.errwarn
+END
+opt-gvmat64.hex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-gvmat64.hex
+END
+data-rawvalue.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/data-rawvalue.asm
+END
+combpath_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/combpath_test.c
+END
+data-rawvalue.hex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/data-rawvalue.hex
+END
+expr-wide-ident.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/expr-wide-ident.asm
+END
+Makefile.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/Makefile.inc
+END
+times-res.errwarn
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/times-res.errwarn
+END
+expr-wide-ident.hex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/expr-wide-ident.hex
+END
+reserve-err1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/reserve-err1.asm
+END
+opt-immexpand.asm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-immexpand.asm
+END
+reserve-err2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/reserve-err2.asm
+END
+absloop-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/absloop-err.asm
+END
+opt-immexpand.hex
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/opt-immexpand.hex
+END
+floatnum_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/167604/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/floatnum_test.c
+END
+jmpsize1-err.asm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/jmpsize1-err.asm
+END
+strucsize.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29921/trunk/deps/third_party/yasm/patched-yasm/libyasm/tests/strucsize.asm
+END

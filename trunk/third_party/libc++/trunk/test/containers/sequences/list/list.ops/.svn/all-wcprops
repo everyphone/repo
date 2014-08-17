@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops
+END
+unique_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/unique_pred.pass.cpp
+END
+splice_pos_list_iter_iter.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/splice_pos_list_iter_iter.pass.cpp
+END
+sort_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/sort_comp.pass.cpp
+END
+unique.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/unique.pass.cpp
+END
+sort.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/sort.pass.cpp
+END
+remove_if.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/remove_if.pass.cpp
+END
+reverse.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/reverse.pass.cpp
+END
+splice_pos_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/splice_pos_list.pass.cpp
+END
+merge_comp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/merge_comp.pass.cpp
+END
+remove.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/remove.pass.cpp
+END
+splice_pos_list_iter.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/splice_pos_list_iter.pass.cpp
+END
+merge.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/list.ops/merge.pass.cpp
+END

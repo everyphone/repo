@@ -1,0 +1,45 @@
+build obj/All.actions_depends.stamp: stamp $
+    obj/third_party/openmax_dl/dl/libopenmax_dl.a $
+    obj/webrtc/webrtc_all.actions_depends.stamp obj/webrtc/libwebrtc.a $
+    obj/webrtc/webrtc_tests.actions_depends.stamp video_loopback $
+    video_replay video_engine_tests webrtc_perf_tests $
+    video_engine_tests.isolated webrtc_perf_tests.isolated $
+    obj/talk/libjingle.a obj/talk/libjingle_sound.a $
+    obj/talk/libjingle_media.a obj/talk/libjingle_p2p.a $
+    obj/talk/libjingle_peerconnection.a libjingle_peerconnection_so.so.TOC $
+    libjingle_peerconnection.jar obj/talk/libjingle_xmpphelp.a relayserver $
+    stunserver turnserver login peerconnection_server peerconnection_client $
+    obj/talk/libjingle_unittest_main.a libjingle_unittest $
+    libjingle_sound_unittest libjingle_media_unittest $
+    libjingle_p2p_unittest libjingle_peerconnection_unittest $
+    libjingle_peerconnection_test.jar $
+    libjingle_peerconnection_java_unittest $
+    libjingle_media_unittest.isolated libjingle_p2p_unittest.isolated $
+    libjingle_peerconnection_unittest.isolated $
+    libjingle_sound_unittest.isolated libjingle_unittest.isolated
+
+build obj/All.compile_depends.stamp: stamp $
+    obj/webrtc/webrtc_all.compile_depends.stamp $
+    obj/webrtc/webrtc_tests.compile_depends.stamp $
+    obj/webrtc/video_loopback.compile_depends.stamp $
+    obj/webrtc/video_replay.compile_depends.stamp $
+    obj/webrtc/video_engine_tests.compile_depends.stamp $
+    obj/webrtc/webrtc_perf_tests.compile_depends.stamp $
+    video_engine_tests.isolated webrtc_perf_tests.isolated $
+    obj/talk/libjingle_peerconnection_so.compile_depends.stamp $
+    libjingle_peerconnection.jar obj/talk/relayserver.compile_depends.stamp $
+    obj/talk/stunserver.compile_depends.stamp $
+    obj/talk/turnserver.compile_depends.stamp $
+    obj/talk/login.compile_depends.stamp $
+    obj/talk/peerconnection_client.compile_depends.stamp $
+    obj/third_party/libjpeg_turbo/libjpeg.actions_rules_copies.stamp $
+    obj/third_party/libjpeg_turbo/libjpeg.actions_rules_copies.stamp $
+    obj/talk/libjingle_media_unittest.actions_rules_copies.stamp $
+    obj/talk/libjingle_p2p_unittest.compile_depends.stamp $
+    obj/talk/libjingle_peerconnection_unittest.compile_depends.stamp $
+    libjingle_peerconnection_test.jar $
+    libjingle_peerconnection_java_unittest $
+    libjingle_media_unittest.isolated libjingle_p2p_unittest.isolated $
+    libjingle_peerconnection_unittest.isolated $
+    libjingle_sound_unittest.isolated libjingle_unittest.isolated
+

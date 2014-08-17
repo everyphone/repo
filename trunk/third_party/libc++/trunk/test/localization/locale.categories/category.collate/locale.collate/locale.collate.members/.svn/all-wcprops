@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.collate/locale.collate/locale.collate.members
+END
+transform.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.collate/locale.collate/locale.collate.members/transform.pass.cpp
+END
+hash.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.collate/locale.collate/locale.collate.members/hash.pass.cpp
+END
+compare.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.collate/locale.collate/locale.collate.members/compare.pass.cpp
+END

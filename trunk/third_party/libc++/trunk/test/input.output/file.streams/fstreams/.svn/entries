@@ -1,0 +1,113 @@
+10
+
+dir
+206024
+http://src.chromium.org/llvm-project/libcxx/trunk/test/input.output/file.streams/fstreams
+http://src.chromium.org/llvm-project
+
+
+
+2013-03-22T20:05:40.407003Z
+177755
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13822387-51bd-4730-8a9b-04cb6d7d6f7b
+
+ofstream.cons
+dir
+
+filebuf.virtuals
+dir
+
+fstream.assign
+dir
+
+fstream.members
+dir
+
+ifstream.assign
+dir
+
+filebuf.assign
+dir
+
+fstream
+dir
+
+fstream.cons
+dir
+
+ofstream.assign
+dir
+
+ifstream.members
+dir
+
+filebuf.members
+dir
+
+ofstream.members
+dir
+
+ifstream
+dir
+
+ifstream.cons
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2014-08-16T17:11:21.870390Z
+283ecbbbf3c78d158509fe478d706a1f
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+473
+
+filebuf
+dir
+
+filebuf.cons
+dir
+
+ofstream
+dir
+

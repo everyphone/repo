@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/llvm-project/!svn/ver/188964/libcxx/trunk/test/strings/string.conversions
+END
+stold.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/string.conversions/stold.pass.cpp
+END
+stoul.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/llvm-project/!svn/ver/188964/libcxx/trunk/test/strings/string.conversions/stoul.pass.cpp
+END
+to_string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/string.conversions/to_string.pass.cpp
+END
+stod.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/string.conversions/stod.pass.cpp
+END
+stof.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/174451/libcxx/trunk/test/strings/string.conversions/stof.pass.cpp
+END
+stoll.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/llvm-project/!svn/ver/188282/libcxx/trunk/test/strings/string.conversions/stoll.pass.cpp
+END
+stoi.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/string.conversions/stoi.pass.cpp
+END
+to_wstring.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/strings/string.conversions/to_wstring.pass.cpp
+END
+stol.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/188964/libcxx/trunk/test/strings/string.conversions/stol.pass.cpp
+END
+stoull.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/llvm-project/!svn/ver/188964/libcxx/trunk/test/strings/string.conversions/stoull.pass.cpp
+END

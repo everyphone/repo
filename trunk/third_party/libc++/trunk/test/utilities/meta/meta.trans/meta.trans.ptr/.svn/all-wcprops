@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/185597/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ptr
+END
+add_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/llvm-project/!svn/ver/185597/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ptr/add_pointer.pass.cpp
+END
+remove_pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/185597/libcxx/trunk/test/utilities/meta/meta.trans/meta.trans.ptr/remove_pointer.pass.cpp
+END

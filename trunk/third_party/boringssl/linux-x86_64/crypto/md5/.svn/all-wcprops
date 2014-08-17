@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/linux-x86_64/crypto/md5
+END
+md5-x86_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/linux-x86_64/crypto/md5/md5-x86_64.S
+END

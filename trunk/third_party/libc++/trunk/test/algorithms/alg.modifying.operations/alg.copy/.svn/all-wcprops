@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.copy
+END
+copy_n.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.copy/copy_n.pass.cpp
+END
+copy_backward.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.copy/copy_backward.pass.cpp
+END
+copy_if.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.copy/copy_if.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.copy/copy.pass.cpp
+END

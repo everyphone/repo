@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/174459/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.get
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.get/types.pass.cpp
+END
+ctor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locale.categories/category.monetary/locale.money.get/ctor.pass.cpp
+END

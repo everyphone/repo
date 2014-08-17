@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/285927/trunk/deps/third_party/libvpx/source/libvpx
+END
+docs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/271029/trunk/deps/third_party/libvpx/source/libvpx/docs.mk
+END
+libs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/libs.mk
+END
+ivfenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/ivfenc.h
+END
+keywords.dox
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/106910/trunk/deps/third_party/libvpx/source/libvpx/keywords.dox
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/263021/trunk/deps/third_party/libvpx/source/libvpx/.gitignore
+END
+libs.doxy_template
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/106910/trunk/deps/third_party/libvpx/source/libvpx/libs.doxy_template
+END
+y4minput.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/y4minput.c
+END
+vpxdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vpxdec.c
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/140393/trunk/deps/third_party/libvpx/source/libvpx/mainpage.dox
+END
+args.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/172738/trunk/deps/third_party/libvpx/source/libvpx/args.c
+END
+PATENTS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/106910/trunk/deps/third_party/libvpx/source/libvpx/PATENTS
+END
+y4minput.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/y4minput.h
+END
+ivfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/ivfdec.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/121961/trunk/deps/third_party/libvpx/source/libvpx/LICENSE
+END
+args.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/args.h
+END
+ivfdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/ivfdec.h
+END
+usage_dx.dox
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/106910/trunk/deps/third_party/libvpx/source/libvpx/usage_dx.dox
+END
+tools_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/tools_common.c
+END
+usage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/140393/trunk/deps/third_party/libvpx/source/libvpx/usage.dox
+END
+.mailmap
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/240981/trunk/deps/third_party/libvpx/source/libvpx/.mailmap
+END
+tools_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/tools_common.h
+END
+rate_hist.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/rate_hist.c
+END
+video_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/video_common.h
+END
+webmenc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/webmenc.cc
+END
+webmenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/265970/trunk/deps/third_party/libvpx/source/libvpx/webmenc.h
+END
+rate_hist.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/rate_hist.h
+END
+.gitattributes
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/106910/trunk/deps/third_party/libvpx/source/libvpx/.gitattributes
+END
+warnings.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/warnings.c
+END
+video_reader.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/video_reader.c
+END
+vpxstats.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vpxstats.c
+END
+warnings.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/warnings.h
+END
+video_reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/video_reader.h
+END
+y4menc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/y4menc.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/285378/trunk/deps/third_party/libvpx/source/libvpx/configure
+END
+vpxstats.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vpxstats.h
+END
+solution.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/205839/trunk/deps/third_party/libvpx/source/libvpx/solution.mk
+END
+video_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/video_writer.c
+END
+vpxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vpxenc.c
+END
+examples.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/examples.mk
+END
+y4menc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/y4menc.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/240981/trunk/deps/third_party/libvpx/source/libvpx/AUTHORS
+END
+md5_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/172738/trunk/deps/third_party/libvpx/source/libvpx/md5_utils.c
+END
+usage_cx.dox
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/121961/trunk/deps/third_party/libvpx/source/libvpx/usage_cx.dox
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/240981/trunk/deps/third_party/libvpx/source/libvpx/CHANGELOG
+END
+video_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/video_writer.h
+END
+vpxenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vpxenc.h
+END
+webmdec.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/269083/trunk/deps/third_party/libvpx/source/libvpx/webmdec.cc
+END
+md5_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/md5_utils.h
+END
+ivfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/ivfenc.c
+END
+webmdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/267596/trunk/deps/third_party/libvpx/source/libvpx/webmdec.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/281806/trunk/deps/third_party/libvpx/source/libvpx/README
+END

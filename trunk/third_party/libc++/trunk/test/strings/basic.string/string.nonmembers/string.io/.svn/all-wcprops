@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io
+END
+get_line_delim.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io/get_line_delim.pass.cpp
+END
+stream_extract.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io/stream_extract.pass.cpp
+END
+get_line.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io/get_line.pass.cpp
+END
+get_line_delim_rv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io/get_line_delim_rv.pass.cpp
+END
+get_line_rv.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io/get_line_rv.pass.cpp
+END
+stream_insert.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/strings/basic.string/string.nonmembers/string.io/stream_insert.pass.cpp
+END

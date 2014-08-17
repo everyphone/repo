@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm
+END
+omxSP_FFTGetBufSize_C_SC32.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_C_SC32.c
+END
+omxSP_FFTInit_R_S16S32.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_R_S16S32.c
+END
+omxSP_FFTGetBufSize_C_SC16.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_C_SC16.c
+END
+armSP_FFT_S32TwiddleTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4894/deps/third_party/openmax/dl/sp/src/arm/armSP_FFT_S32TwiddleTable.c
+END
+omxSP_FFTGetBufSize_R_S16S32.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_R_S16S32.c
+END
+omxSP_FFTInit_R_S32.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_R_S32.c
+END
+omxSP_FFTInit_R_S16.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_R_S16.c
+END
+omxSP_FFTGetBufSize_R_S32.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_R_S32.c
+END
+omxSP_FFTGetBufSize_R_S16.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_R_S16.c
+END
+detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5810/deps/third_party/openmax/dl/sp/src/arm/detect.c
+END
+omxSP_FFTInit_C_FC32.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_C_FC32.c
+END
+omxSP_FFTGetBufSize_C_FC32.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_C_FC32.c
+END
+omxSP_FFTInit_R_F32.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_R_F32.c
+END
+omxSP_FFTInit_C_SC32.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_C_SC32.c
+END
+omxSP_FFTInit_C_SC16.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTInit_C_SC16.c
+END
+omxSP_FFTGetBufSize_R_F32.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4904/deps/third_party/openmax/dl/sp/src/arm/omxSP_FFTGetBufSize_R_F32.c
+END

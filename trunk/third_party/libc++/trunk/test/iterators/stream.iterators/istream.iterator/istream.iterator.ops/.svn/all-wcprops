@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/istream.iterator/istream.iterator.ops
+END
+dereference.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/istream.iterator/istream.iterator.ops/dereference.pass.cpp
+END
+equal.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/istream.iterator/istream.iterator.ops/equal.pass.cpp
+END
+post_increment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/istream.iterator/istream.iterator.ops/post_increment.pass.cpp
+END
+arrow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/istream.iterator/istream.iterator.ops/arrow.pass.cpp
+END
+pre_increment.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/iterators/stream.iterators/istream.iterator/istream.iterator.ops/pre_increment.pass.cpp
+END

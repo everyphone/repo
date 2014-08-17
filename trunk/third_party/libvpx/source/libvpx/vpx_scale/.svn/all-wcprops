@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale
+END
+vpx_scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale/vpx_scale.h
+END
+vpx_scale.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/278474/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale/vpx_scale.mk
+END
+vpx_scale_rtcd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/278474/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale/vpx_scale_rtcd.pl
+END
+yv12config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/254598/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale/yv12config.h
+END
+vpx_scale_asm_offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/172738/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale/vpx_scale_asm_offsets.c
+END
+vpx_scale_rtcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/172738/trunk/deps/third_party/libvpx/source/libvpx/vpx_scale/vpx_scale_rtcd.c
+END

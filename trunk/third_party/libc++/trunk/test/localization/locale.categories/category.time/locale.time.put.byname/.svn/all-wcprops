@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.put.byname
+END
+put1.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.put.byname/put1.pass.cpp
+END

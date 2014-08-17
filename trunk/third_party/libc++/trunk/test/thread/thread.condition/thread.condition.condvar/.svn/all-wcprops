@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/llvm-project/!svn/ver/174902/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar
+END
+wait_for.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/llvm-project/!svn/ver/174902/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/wait_for.pass.cpp
+END
+destructor.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/destructor.pass.cpp
+END
+wait_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/wait_pred.pass.cpp
+END
+copy.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/copy.fail.cpp
+END
+wait_until.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/174726/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/wait_until.pass.cpp
+END
+notify_all.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/notify_all.pass.cpp
+END
+native_handle.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/native_handle.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/default.pass.cpp
+END
+wait.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/wait.pass.cpp
+END
+wait_for_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/llvm-project/!svn/ver/174902/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/wait_for_pred.pass.cpp
+END
+assign.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/assign.fail.cpp
+END
+notify_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/notify_one.pass.cpp
+END
+wait_until_pred.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/llvm-project/!svn/ver/174726/libcxx/trunk/test/thread/thread.condition/thread.condition.condvar/wait_until_pred.pass.cpp
+END

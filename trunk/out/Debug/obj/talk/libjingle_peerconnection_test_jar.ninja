@@ -1,0 +1,18 @@
+rule $
+    libjingle_peerconnection_test_jar_target_create_jar_84fd97b9abfd8f5f83ce9933156c810a
+  command = cd ../../talk; build/build_jar.sh $
+      /usr/lib/jvm/java-6-openjdk-amd64/ $
+      ../out/Debug/libjingle_peerconnection_test.jar $
+      ../out/Debug/obj/talk/libjingle_peerconnection_test_jar.gen $
+      app/webrtc/javatests/src:../out/Debug/libjingle_peerconnection.jar:../third_party/junit/junit-4.11.jar $
+      app/webrtc/javatests/src/org/webrtc/PeerConnectionTest.java
+  description = ACTION libjingle_peerconnection_test_jar: $
+      create_jar_84fd97b9abfd8f5f83ce9933156c810a
+  restat = 1
+
+build libjingle_peerconnection_test.jar: $
+    libjingle_peerconnection_test_jar_target_create_jar_84fd97b9abfd8f5f83ce9933156c810a $
+    ../../talk/build/build_jar.sh $
+    ../../talk/app/webrtc/javatests/src/org/webrtc/PeerConnectionTest.java $
+    libjingle_peerconnection.jar ../../third_party/junit/junit-4.11.jar
+

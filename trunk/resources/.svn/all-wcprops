@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6882/trunk/resources
+END
+near32_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5076/trunk/resources/near32_stereo.pcm.sha1
+END
+sprint-downlink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5423/trunk/resources/sprint-downlink.rx.sha1
+END
+near16_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5076/trunk/resources/near16_stereo.pcm.sha1
+END
+deflicker_before_cif_short.yuv.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5076/trunk/resources/deflicker_before_cif_short.yuv.sha1
+END
+synthetic-trace.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5423/trunk/resources/synthetic-trace.rx.sha1
+END
+short_mixed_stereo_48.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5643/trunk/resources/short_mixed_stereo_48.pcm.sha1
+END
+short_mixed_mono_48.dat.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5675/trunk/resources/short_mixed_mono_48.dat.sha1
+END
+verizon3g-downlink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5423/trunk/resources/verizon3g-downlink.rx.sha1
+END
+verizon4g-downlink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5423/trunk/resources/verizon4g-downlink.rx.sha1
+END
+paris_qcif.yuv.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/5076/trunk/resources/paris_qcif.yuv.sha1
+END
+audioproc.aecdump.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5076/trunk/resources/audioproc.aecdump.sha1
+END
+tmobile-downlink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5423/trunk/resources/tmobile-downlink.rx.sha1
+END
+far32_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5076/trunk/resources/far32_stereo.pcm.sha1
+END
+far16_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5076/trunk/resources/far16_stereo.pcm.sha1
+END
+att-uplink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5423/trunk/resources/att-uplink.rx.sha1
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5085/trunk/resources/OWNERS
+END
+short_mixed_stereo_48.dat.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5675/trunk/resources/short_mixed_stereo_48.dat.sha1
+END
+foreman_cif.yuv.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5076/trunk/resources/foreman_cif.yuv.sha1
+END
+ref03.aecdump.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5676/trunk/resources/ref03.aecdump.sha1
+END
+near44_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5945/trunk/resources/near44_stereo.pcm.sha1
+END
+foremanColorEnhanced_cif_short.yuv.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5076/trunk/resources/foremanColorEnhanced_cif_short.yuv.sha1
+END
+far8_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5076/trunk/resources/far8_stereo.pcm.sha1
+END
+near48_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5945/trunk/resources/near48_stereo.pcm.sha1
+END
+e2e_audio_in.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5076/trunk/resources/e2e_audio_in.pcm.sha1
+END
+att-downlink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5423/trunk/resources/att-downlink.rx.sha1
+END
+short_mixed_mono_48.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5643/trunk/resources/short_mixed_mono_48.pcm.sha1
+END
+sprint-uplink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5423/trunk/resources/sprint-uplink.rx.sha1
+END
+foreman_cif_short.yuv.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5076/trunk/resources/foreman_cif_short.yuv.sha1
+END
+speech_and_misc_wb.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5076/trunk/resources/speech_and_misc_wb.pcm.sha1
+END
+near8_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5076/trunk/resources/near8_stereo.pcm.sha1
+END
+verizon3g-uplink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5423/trunk/resources/verizon3g-uplink.rx.sha1
+END
+verizon4g-uplink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5423/trunk/resources/verizon4g-uplink.rx.sha1
+END
+far44_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5945/trunk/resources/far44_stereo.pcm.sha1
+END
+tmobile-uplink.rx.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5423/trunk/resources/tmobile-uplink.rx.sha1
+END
+far48_stereo.pcm.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5945/trunk/resources/far48_stereo.pcm.sha1
+END

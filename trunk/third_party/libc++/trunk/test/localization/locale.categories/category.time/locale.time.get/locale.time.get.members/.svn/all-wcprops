@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members
+END
+date_order.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/date_order.pass.cpp
+END
+get_weekday.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_weekday.pass.cpp
+END
+get_date.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_date.pass.cpp
+END
+get_monthname_wide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_monthname_wide.pass.cpp
+END
+get_time.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_time.pass.cpp
+END
+get_year.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_year.pass.cpp
+END
+get_one.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_one.pass.cpp
+END
+get_weekday_wide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_weekday_wide.pass.cpp
+END
+get_many.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_many.pass.cpp
+END
+get_date_wide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_date_wide.pass.cpp
+END
+get_monthname.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_monthname.pass.cpp
+END
+get_time_wide.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locale.categories/category.time/locale.time.get/locale.time.get.members/get_time_wide.pass.cpp
+END

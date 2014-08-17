@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5082/trunk/resources/images
+END
+webrtc_logo.jpg.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5076/trunk/resources/images/webrtc_logo.jpg.sha1
+END
+captureDeviceImage.jpg.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5076/trunk/resources/images/captureDeviceImage.jpg.sha1
+END
+renderTimeoutImage.jpg.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5076/trunk/resources/images/renderTimeoutImage.jpg.sha1
+END
+renderStartImage.jpg.sha1
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5076/trunk/resources/images/renderStartImage.jpg.sha1
+END

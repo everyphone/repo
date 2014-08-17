@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor
+END
+in_place_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/in_place_t.pass.cpp
+END
+initializer_list.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/initializer_list.pass.cpp
+END
+nullopt_t.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/nullopt_t.pass.cpp
+END
+rvalue_T.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/rvalue_T.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/default.pass.cpp
+END
+move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/move.pass.cpp
+END
+const_T.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/const_T.pass.cpp
+END
+copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/194867/libcxx/trunk/test/utilities/optional/optional.object/optional.object.ctor/copy.pass.cpp
+END

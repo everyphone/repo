@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/x86
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix2_ls_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix2_ls_sse.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix4_ls_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix4_ls_sse.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix2_ls.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix2_ls.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix4_ms_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix4_ms_sse.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix2_ms.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix2_ms.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix4_ls.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix4_ls.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix4_ms.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix4_ms.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix4_fs_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix4_fs_sse.c
+END
+omxSP_FFTFwd_RToCCS_F32_Sfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/x86/omxSP_FFTFwd_RToCCS_F32_Sfs.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix2_ls_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix2_ls_sse.c
+END
+x86SP_FFT_F32_radix2_kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_F32_radix2_kernel.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix4_ls_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix4_ls_sse.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix4_ms_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix4_ms_sse.c
+END
+x86SP_FFT_F32_radix4_kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5810/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_F32_radix4_kernel.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix2_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix2_fs.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix4_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix4_fs.c
+END
+x86SP_SSE_Math.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/x86/x86SP_SSE_Math.h
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix2_ls.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix2_ls.c
+END
+omxSP_FFTInv_CCSToR_F32_Sfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/x86/omxSP_FFTInv_CCSToR_F32_Sfs.c
+END
+omxSP_FFTInit_R_F32.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6019/deps/third_party/openmax/dl/sp/src/x86/omxSP_FFTInit_R_F32.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix2_ms.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix2_ms.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix4_ls.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix4_ls.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix4_ms.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix4_ms.c
+END
+omxSP_FFTGetBufSize_R_F32.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5939/deps/third_party/openmax/dl/sp/src/x86/omxSP_FFTGetBufSize_R_F32.c
+END
+x86SP_FFT_CToC_FC32_Fwd_Radix4_fs_sse.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Fwd_Radix4_fs_sse.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix2_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix2_fs.c
+END
+x86SP_FFT_CToC_FC32_Inv_Radix4_fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5109/deps/third_party/openmax/dl/sp/src/x86/x86SP_FFT_CToC_FC32_Inv_Radix4_fs.c
+END

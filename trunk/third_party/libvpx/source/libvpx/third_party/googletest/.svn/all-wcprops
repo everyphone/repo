@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/googletest
+END
+gtest.mk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/121961/trunk/deps/third_party/libvpx/source/libvpx/third_party/googletest/gtest.mk
+END
+README.libvpx
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/source/libvpx/third_party/googletest/README.libvpx
+END

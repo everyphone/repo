@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/llvm-project/!svn/ver/202158/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.creation
+END
+forward_as_tuple.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/llvm-project/!svn/ver/192038/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.creation/forward_as_tuple.pass.cpp
+END
+tuple_cat.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/llvm-project/!svn/ver/186834/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.creation/tuple_cat.pass.cpp
+END
+tie.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/llvm-project/!svn/ver/202158/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.creation/tie.pass.cpp
+END
+make_tuple.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/187906/libcxx/trunk/test/utilities/tuple/tuple.tuple/tuple.creation/make_tuple.pass.cpp
+END

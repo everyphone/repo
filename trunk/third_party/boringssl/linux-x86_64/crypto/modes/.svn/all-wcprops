@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/linux-x86_64/crypto/modes
+END
+ghash-x86_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/linux-x86_64/crypto/modes/ghash-x86_64.S
+END
+aesni-gcm-x86_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/287177/trunk/src/third_party/boringssl/linux-x86_64/crypto/modes/aesni-gcm-x86_64.S
+END

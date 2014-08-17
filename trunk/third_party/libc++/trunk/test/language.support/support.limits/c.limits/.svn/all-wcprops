@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/c.limits
+END
+climits.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/c.limits/climits.pass.cpp
+END
+cfloat.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/c.limits/cfloat.pass.cpp
+END
+version_climits.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/c.limits/version_climits.pass.cpp
+END
+version_cfloat.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/language.support/support.limits/c.limits/version_cfloat.pass.cpp
+END

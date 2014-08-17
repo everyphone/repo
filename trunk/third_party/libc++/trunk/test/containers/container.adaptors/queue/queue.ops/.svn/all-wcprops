@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.ops
+END
+lt.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.ops/lt.pass.cpp
+END
+eq.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/container.adaptors/queue/queue.ops/eq.pass.cpp
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/287125/trunk/deps/third_party/libvpx
+END
+libvpx_srcs_x86.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_x86.gypi
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/211874/trunk/deps/third_party/libvpx/OWNERS
+END
+libvpx_srcs_arm64.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/libvpx_srcs_arm64.gypi
+END
+update_libvpx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/271029/trunk/deps/third_party/libvpx/update_libvpx.sh
+END
+libvpx_srcs_x86_intrinsics.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/libvpx_srcs_x86_intrinsics.gypi
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/285378/trunk/deps/third_party/libvpx/README.chromium
+END
+libvpx_srcs_arm_neon_cpu_detect.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_arm_neon_cpu_detect.gypi
+END
+libvpx_srcs_x86_64.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_x86_64.gypi
+END
+libvpx_srcs_arm_neon.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/libvpx_srcs_arm_neon.gypi
+END
+obj_int_extract.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/257727/trunk/deps/third_party/libvpx/obj_int_extract.gypi
+END
+WATCHLISTS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/267222/trunk/deps/third_party/libvpx/WATCHLISTS
+END
+libvpx_srcs_arm_neon_cpu_detect_intrinsics.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/284465/trunk/deps/third_party/libvpx/libvpx_srcs_arm_neon_cpu_detect_intrinsics.gypi
+END
+libvpx_srcs_x86_64_intrinsics.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/libvpx_srcs_x86_64_intrinsics.gypi
+END
+copy_obj.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/247649/trunk/deps/third_party/libvpx/copy_obj.py
+END
+generate_gypi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/278785/trunk/deps/third_party/libvpx/generate_gypi.sh
+END
+libvpx_srcs_mips.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_mips.gypi
+END
+libvpx_nacl.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/254612/trunk/deps/third_party/libvpx/libvpx_nacl.gyp
+END
+unpack_lib_posix.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/278474/trunk/deps/third_party/libvpx/unpack_lib_posix.gypi
+END
+libvpx_srcs_generic.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_generic.gypi
+END
+libvpx_srcs_nacl.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_nacl.gypi
+END
+libvpx.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/287125/trunk/deps/third_party/libvpx/libvpx.gyp
+END
+unpack_lib_posix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/260035/trunk/deps/third_party/libvpx/unpack_lib_posix.sh
+END
+libvpx_srcs_arm.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/282874/trunk/deps/third_party/libvpx/libvpx_srcs_arm.gypi
+END
+lint_config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/260035/trunk/deps/third_party/libvpx/lint_config.sh
+END
+obj_int_extract.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/247490/trunk/deps/third_party/libvpx/obj_int_extract.py
+END

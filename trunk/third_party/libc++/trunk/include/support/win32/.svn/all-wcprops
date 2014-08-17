@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/llvm-project/!svn/ver/198482/libcxx/trunk/include/support/win32
+END
+math_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/llvm-project/!svn/ver/190837/libcxx/trunk/include/support/win32/math_win32.h
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/llvm-project/!svn/ver/198482/libcxx/trunk/include/support/win32/support.h
+END
+locale_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/llvm-project/!svn/ver/195044/libcxx/trunk/include/support/win32/locale_win32.h
+END
+limits_win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/llvm-project/!svn/ver/192068/libcxx/trunk/include/support/win32/limits_win32.h
+END

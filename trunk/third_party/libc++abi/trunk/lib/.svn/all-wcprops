@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/llvm-project/!svn/ver/190371/libcxxabi/trunk/lib
+END
+buildit
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/llvm-project/!svn/ver/190371/libcxxabi/trunk/lib/buildit
+END

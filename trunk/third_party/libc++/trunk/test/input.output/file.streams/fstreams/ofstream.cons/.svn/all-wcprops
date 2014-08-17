@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/llvm-project/!svn/ver/177755/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.cons
+END
+move.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/llvm-project/!svn/ver/177755/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.cons/move.pass.cpp
+END
+string.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/177755/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.cons/string.pass.cpp
+END
+pointer.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/177755/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.cons/pointer.pass.cpp
+END
+default.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/file.streams/fstreams/ofstream.cons/default.pass.cpp
+END

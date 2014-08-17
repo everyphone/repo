@@ -1,0 +1,179 @@
+build obj/webrtc/voice_engine/voice_engine_unittests.actions_depends.stamp: $
+    stamp obj/webrtc/build/libsanitizer_options.a $
+    obj/webrtc/voice_engine/libvoice_engine.a obj/testing/libgtest.a $
+    obj/webrtc/common_audio/libcommon_audio.a $
+    obj/webrtc/modules/libaudio_device.a $
+    obj/webrtc/modules/libaudio_processing.a $
+    obj/webrtc/modules/libaudio_coding_module.a $
+    obj/webrtc/modules/libaudio_conference_mixer.a $
+    obj/webrtc/modules/libmedia_file.a obj/webrtc/modules/librtp_rtcp.a $
+    obj/webrtc/modules/libwebrtc_utility.a $
+    obj/webrtc/system_wrappers/source/libsystem_wrappers.a $
+    obj/webrtc/test/libtest_support_main.a obj/webrtc/base/libwebrtc_base.a $
+    obj/third_party/jsoncpp/libjsoncpp.a obj/net/third_party/nss/libcrssl.a $
+    obj/net/third_party/nss/libcrssl.a $
+    obj/webrtc/common_audio/libcommon_audio_sse2.a $
+    obj/webrtc/modules/libCNG.a obj/webrtc/modules/libG711.a $
+    obj/webrtc/modules/libG722.a obj/webrtc/modules/libiLBC.a $
+    obj/webrtc/modules/libiSAC.a obj/webrtc/modules/libiSACFix.a $
+    obj/webrtc/modules/libPCM16B.a obj/webrtc/modules/libwebrtc_opus.a $
+    obj/third_party/opus/libopus.a obj/webrtc/modules/libneteq.a $
+    obj/webrtc/modules/libaudioproc_debug_proto.a $
+    obj/third_party/protobuf/libprotobuf_lite.a $
+    obj/webrtc/modules/libaudio_processing_sse2.a $
+    obj/webrtc/modules/libwebrtc_video_coding.a $
+    obj/webrtc/modules/libwebrtc_i420.a $
+    obj/webrtc/common_video/libcommon_video.a libyuv.a $
+    obj/third_party/libjpeg_turbo/libjpeg_turbo.a $
+    obj/webrtc/modules/video_coding/utility/libvideo_coding_utility.a $
+    obj/webrtc/modules/video_coding/codecs/vp8/libwebrtc_vp8.a $
+    obj/third_party/libvpx/libvpx.a $
+    obj/third_party/libvpx/gen_asm_offsets_vp8.actions_rules_copies.stamp $
+    obj/third_party/libvpx/libvpx_asm_offsets_vp8.a $
+    obj/third_party/libvpx/libvpx_intrinsics_mmx.a $
+    obj/third_party/libvpx/libvpx_intrinsics_sse2.a $
+    obj/third_party/libvpx/libvpx_intrinsics_ssse3.a $
+    obj/third_party/libvpx/libvpx_intrinsics_sse4_1.a $
+    obj/webrtc/modules/libbitrate_controller.a $
+    obj/webrtc/modules/libpaced_sender.a $
+    obj/webrtc/modules/libremote_bitrate_estimator.a $
+    obj/webrtc/modules/remote_bitrate_estimator/librbe_components.a $
+    obj/webrtc/test/libfield_trial.a obj/webrtc/test/libtest_support.a $
+    obj/testing/libgmock.a obj/third_party/gflags/libgflags.a
+
+build obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp: $
+    stamp $
+    obj/webrtc/modules/audioproc_debug_proto.actions_rules_copies.stamp $
+    obj/webrtc/modules/audioproc_debug_proto.actions_rules_copies.stamp $
+    obj/third_party/libjpeg_turbo/libjpeg.actions_rules_copies.stamp $
+    obj/third_party/libvpx/libvpx.actions_rules_copies.stamp $
+    obj/third_party/libvpx/gen_asm_offsets_vp8.actions_rules_copies.stamp
+
+defines = -DV8_DEPRECATION_WARNINGS -DBLINK_SCALE_FILTERS_AT_RECORD_TIME $
+    -D_FILE_OFFSET_BITS=64 -DCHROMIUM_BUILD -DCR_CLANG_REVISION=214024 $
+    -DTOOLKIT_VIEWS=1 -DUI_COMPOSITOR_IMAGE_TRANSPORT -DUSE_AURA=1 $
+    -DUSE_ASH=1 -DUSE_PANGO=1 -DUSE_CAIRO=1 -DUSE_GLIB=1 $
+    -DUSE_DEFAULT_RENDER_THEME=1 -DUSE_LIBJPEG_TURBO=1 -DUSE_X11=1 $
+    -DUSE_CLIPBOARD_AURAX11=1 -DENABLE_ONE_CLICK_SIGNIN $
+    -DENABLE_PRE_SYNC_BACKUP -DUSE_XI2_MT=2 -DENABLE_REMOTING=1 $
+    -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY $
+    -DENABLE_NOTIFICATIONS -DUSE_UDEV -DENABLE_EGLIMAGE=1 $
+    -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGINS=1 $
+    -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 $
+    -DENABLE_BACKGROUND=1 -DENABLE_GOOGLE_NOW=1 -DCLD_VERSION=2 $
+    -DCLD2_DATA_SOURCE=static -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 $
+    -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 $
+    -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 $
+    -DENABLE_MDNS=1 -DENABLE_SERVICE_DISCOVERY=1 $
+    -DWEBRTC_MODULE_UTILITY_VIDEO -DWEBRTC_POSIX -DWEBRTC_LINUX $
+    -DGTEST_HAS_POSIX_RE=0 -DUNIT_TEST -DGTEST_HAS_RTTI=0 -DUSE_NSS=1 $
+    -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS $
+    -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 $
+    -D_DEBUG -D_GLIBCXX_DEBUG=1
+includes = -Igen -I../.. -I../../testing/gtest/include $
+    -I../../webrtc/common_audio/resampler/include $
+    -I../../webrtc/common_audio/signal_processing/include $
+    -I../../webrtc/common_audio/vad/include $
+    -I../../webrtc/modules/interface $
+    -I../../webrtc/modules/audio_device/include $
+    -I../../webrtc/modules/audio_coding/main/interface -I../../webrtc $
+    -I../../webrtc/modules/audio_conference_mixer/interface $
+    -I../../webrtc/modules/media_file/interface $
+    -I../../webrtc/system_wrappers/interface
+cflags = -fstack-protector --param=ssp-buffer-size=4 -Werror -pthread $
+    -fno-exceptions -fno-strict-aliasing -Wall -Wno-unused-parameter $
+    -Wno-missing-field-initializers -fvisibility=hidden -pipe -fPIC $
+    -Wno-reserved-user-defined-literal -fcolor-diagnostics $
+    -B/home/maestro/everyphone/repo/trunk/third_party/binutils/Linux_x64/Release/bin $
+    -Wheader-hygiene -Wno-char-subscripts $
+    -Wno-unneeded-internal-declaration -Wno-covered-switch-default $
+    -Wstring-conversion -Wno-c++11-narrowing -Wno-deprecated-register $
+    -Wextra -Wno-unused-parameter -Wno-missing-field-initializers $
+    -Wno-strict-overflow -Wthread-safety -m64 -march=x86-64 -O0 -g $
+    -funwind-tables -gsplit-dwarf
+cflags_c = 
+cflags_cc = -fno-rtti -fno-threadsafe-statics -fvisibility-inlines-hidden $
+    -Wsign-compare -std=gnu++11 -Wnon-virtual-dtor -Woverloaded-virtual
+
+build obj/webrtc/voice_engine/voice_engine_unittests.channel_unittest.o: $
+    cxx ../../webrtc/voice_engine/channel_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+build $
+    obj/webrtc/voice_engine/voice_engine_unittests.network_predictor_unittest.o: $
+    cxx ../../webrtc/voice_engine/network_predictor_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+build $
+    obj/webrtc/voice_engine/voice_engine_unittests.transmit_mixer_unittest.o: $
+    cxx ../../webrtc/voice_engine/transmit_mixer_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+build obj/webrtc/voice_engine/voice_engine_unittests.utility_unittest.o: $
+    cxx ../../webrtc/voice_engine/utility_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+build $
+    obj/webrtc/voice_engine/voice_engine_unittests.voe_audio_processing_unittest.o: $
+    cxx ../../webrtc/voice_engine/voe_audio_processing_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+build obj/webrtc/voice_engine/voice_engine_unittests.voe_base_unittest.o: $
+    cxx ../../webrtc/voice_engine/voe_base_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+build obj/webrtc/voice_engine/voice_engine_unittests.voe_codec_unittest.o: $
+    cxx ../../webrtc/voice_engine/voe_codec_unittest.cc || $
+    obj/webrtc/voice_engine/voice_engine_unittests.compile_depends.stamp
+
+ldflags = -Wl,-z,now -Wl,-z,relro -Wl,--fatal-warnings -pthread $
+    -Wl,-z,noexecstack -fPIC $
+    -B/home/maestro/everyphone/repo/trunk/third_party/binutils/Linux_x64/Release/bin $
+    -Wl,--disable-new-dtags -Wl,-u_sanitizer_options_link_helper -m64 $
+    -Wl,--icf=none
+libs =  -lrt -ldl -lXext -lX11 -lXcomposite -lXrender -lcrypto -lnss3 $
+    -lnssutil3 -lsmime3 -lplds4 -lplc4 -lnspr4 -lm
+build voice_engine_unittests: link $
+    obj/webrtc/voice_engine/voice_engine_unittests.channel_unittest.o $
+    obj/webrtc/voice_engine/voice_engine_unittests.network_predictor_unittest.o $
+    obj/webrtc/voice_engine/voice_engine_unittests.transmit_mixer_unittest.o $
+    obj/webrtc/voice_engine/voice_engine_unittests.utility_unittest.o $
+    obj/webrtc/voice_engine/voice_engine_unittests.voe_audio_processing_unittest.o $
+    obj/webrtc/voice_engine/voice_engine_unittests.voe_base_unittest.o $
+    obj/webrtc/voice_engine/voice_engine_unittests.voe_codec_unittest.o $
+    obj/webrtc/build/libsanitizer_options.a $
+    obj/webrtc/voice_engine/libvoice_engine.a obj/testing/libgtest.a $
+    obj/webrtc/common_audio/libcommon_audio.a $
+    obj/webrtc/modules/libaudio_device.a $
+    obj/webrtc/modules/libaudio_processing.a $
+    obj/webrtc/modules/libaudio_coding_module.a $
+    obj/webrtc/modules/libaudio_conference_mixer.a $
+    obj/webrtc/modules/libmedia_file.a obj/webrtc/modules/librtp_rtcp.a $
+    obj/webrtc/modules/libwebrtc_utility.a $
+    obj/webrtc/system_wrappers/source/libsystem_wrappers.a $
+    obj/webrtc/test/libtest_support_main.a obj/webrtc/base/libwebrtc_base.a $
+    obj/third_party/jsoncpp/libjsoncpp.a obj/net/third_party/nss/libcrssl.a $
+    obj/webrtc/common_audio/libcommon_audio_sse2.a $
+    obj/webrtc/modules/libCNG.a obj/webrtc/modules/libG711.a $
+    obj/webrtc/modules/libG722.a obj/webrtc/modules/libiLBC.a $
+    obj/webrtc/modules/libiSAC.a obj/webrtc/modules/libiSACFix.a $
+    obj/webrtc/modules/libPCM16B.a obj/webrtc/modules/libwebrtc_opus.a $
+    obj/third_party/opus/libopus.a obj/webrtc/modules/libneteq.a $
+    obj/webrtc/modules/libaudioproc_debug_proto.a $
+    obj/third_party/protobuf/libprotobuf_lite.a $
+    obj/webrtc/modules/libaudio_processing_sse2.a $
+    obj/webrtc/modules/libwebrtc_video_coding.a $
+    obj/webrtc/modules/libwebrtc_i420.a $
+    obj/webrtc/common_video/libcommon_video.a libyuv.a $
+    obj/third_party/libjpeg_turbo/libjpeg_turbo.a $
+    obj/webrtc/modules/video_coding/utility/libvideo_coding_utility.a $
+    obj/webrtc/modules/video_coding/codecs/vp8/libwebrtc_vp8.a $
+    obj/third_party/libvpx/libvpx.a $
+    obj/third_party/libvpx/libvpx_asm_offsets_vp8.a $
+    obj/third_party/libvpx/libvpx_intrinsics_mmx.a $
+    obj/third_party/libvpx/libvpx_intrinsics_sse2.a $
+    obj/third_party/libvpx/libvpx_intrinsics_ssse3.a $
+    obj/third_party/libvpx/libvpx_intrinsics_sse4_1.a $
+    obj/webrtc/modules/libbitrate_controller.a $
+    obj/webrtc/modules/libpaced_sender.a $
+    obj/webrtc/modules/libremote_bitrate_estimator.a $
+    obj/webrtc/modules/remote_bitrate_estimator/librbe_components.a $
+    obj/webrtc/test/libfield_trial.a obj/webrtc/test/libtest_support.a $
+    obj/testing/libgmock.a obj/third_party/gflags/libgflags.a | $
+    obj/net/third_party/nss/libcrssl.a $
+    obj/third_party/libvpx/gen_asm_offsets_vp8.actions_rules_copies.stamp
+  ld = $ldxx

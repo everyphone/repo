@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/llvm-project/!svn/ver/203479/libcxx/trunk/test/containers/sequences/array
+END
+iterators.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/llvm-project/!svn/ver/203479/libcxx/trunk/test/containers/sequences/array/iterators.pass.cpp
+END
+at.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/llvm-project/!svn/ver/186525/libcxx/trunk/test/containers/sequences/array/at.pass.cpp
+END
+begin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/llvm-project/!svn/ver/124508/libcxx/trunk/test/containers/sequences/array/begin.pass.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/array/types.pass.cpp
+END
+indexing.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/llvm-project/!svn/ver/186525/libcxx/trunk/test/containers/sequences/array/indexing.pass.cpp
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/array/version.pass.cpp
+END
+front_back.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/llvm-project/!svn/ver/186525/libcxx/trunk/test/containers/sequences/array/front_back.pass.cpp
+END

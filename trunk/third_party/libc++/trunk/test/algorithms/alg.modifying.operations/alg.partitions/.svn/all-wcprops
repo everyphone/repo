@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.partitions
+END
+is_partitioned.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.partitions/is_partitioned.pass.cpp
+END
+partition_point.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.partitions/partition_point.pass.cpp
+END
+partition_copy.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.partitions/partition_copy.pass.cpp
+END
+stable_partition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.partitions/stable_partition.pass.cpp
+END
+partition.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/algorithms/alg.modifying.operations/alg.partitions/partition.pass.cpp
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/llvm-project/!svn/ver/201717/libcxx/trunk/test/re/re.alg/re.alg.match
+END
+extended.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/re/re.alg/re.alg.match/extended.pass.cpp
+END
+basic.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/re/re.alg/re.alg.match/basic.pass.cpp
+END
+awk.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/llvm-project/!svn/ver/187636/libcxx/trunk/test/re/re.alg/re.alg.match/awk.pass.cpp
+END
+egrep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/re/re.alg/re.alg.match/egrep.pass.cpp
+END
+ecma.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/re/re.alg/re.alg.match/ecma.pass.cpp
+END
+basic.fail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/llvm-project/!svn/ver/201717/libcxx/trunk/test/re/re.alg/re.alg.match/basic.fail.cpp
+END
+parse_curly_brackets.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/llvm-project/!svn/ver/185211/libcxx/trunk/test/re/re.alg/re.alg.match/parse_curly_brackets.pass.cpp
+END
+lookahead_capture.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/186954/libcxx/trunk/test/re/re.alg/re.alg.match/lookahead_capture.pass.cpp
+END
+grep.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/re/re.alg/re.alg.match/grep.pass.cpp
+END

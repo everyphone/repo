@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.objects/narrow.stream.objects
+END
+cout.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.objects/narrow.stream.objects/cout.pass.cpp
+END
+cerr.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.objects/narrow.stream.objects/cerr.pass.cpp
+END
+clog.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.objects/narrow.stream.objects/clog.pass.cpp
+END
+cin.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.objects/narrow.stream.objects/cin.pass.cpp
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src
+END
+mlp_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/src/mlp_data.c
+END
+analysis.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/analysis.c
+END
+opus_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus_private.h
+END
+opus_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus_encoder.c
+END
+mlp_train.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/src/mlp_train.c
+END
+opus.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus.c
+END
+mlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/mlp.c
+END
+analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/analysis.h
+END
+repacketizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/repacketizer.c
+END
+opus_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus_demo.c
+END
+mlp_train.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/src/mlp_train.h
+END
+opus_compare.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/185324/trunk/deps/third_party/opus/src/opus_compare.c
+END
+repacketizer_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/repacketizer_demo.c
+END
+mlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/src/mlp.h
+END
+opus_multistream_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus_multistream_decoder.c
+END
+tansig_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/src/tansig_table.h
+END
+opus_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus_decoder.c
+END
+opus_multistream_encoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/239448/trunk/deps/third_party/opus/src/opus_multistream_encoder.c
+END
+opus_multistream.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/230378/trunk/deps/third_party/opus/src/opus_multistream.c
+END

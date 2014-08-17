@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/286516/trunk/src/third_party/libc++
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/242088/trunk/src/third_party/libc++/OWNERS
+END
+libc++.gyp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/286516/trunk/src/third_party/libc++/libc++.gyp
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/242088/trunk/src/third_party/libc++/README.chromium
+END

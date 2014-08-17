@@ -1,0 +1,51 @@
+defines = -DV8_DEPRECATION_WARNINGS -DBLINK_SCALE_FILTERS_AT_RECORD_TIME $
+    -DEXPAT_RELATIVE_PATH -DFEATURE_ENABLE_VOICEMAIL -DGTEST_RELATIVE_PATH $
+    -DJSONCPP_RELATIVE_PATH -DLOGGING=1 -DSRTP_RELATIVE_PATH $
+    -DFEATURE_ENABLE_SSL -DFEATURE_ENABLE_PSTN -DHAVE_SCTP -DHAVE_SRTP $
+    -DHAVE_WEBRTC_VIDEO -DHAVE_WEBRTC_VOICE -DUSE_WEBRTC_DEV_BRANCH $
+    -D_FILE_OFFSET_BITS=64 -DCHROMIUM_BUILD -DCR_CLANG_REVISION=214024 $
+    -DTOOLKIT_VIEWS=1 -DUI_COMPOSITOR_IMAGE_TRANSPORT -DUSE_AURA=1 $
+    -DUSE_ASH=1 -DUSE_PANGO=1 -DUSE_CAIRO=1 -DUSE_GLIB=1 $
+    -DUSE_DEFAULT_RENDER_THEME=1 -DUSE_LIBJPEG_TURBO=1 -DUSE_X11=1 $
+    -DUSE_CLIPBOARD_AURAX11=1 -DENABLE_ONE_CLICK_SIGNIN $
+    -DENABLE_PRE_SYNC_BACKUP -DUSE_XI2_MT=2 -DENABLE_REMOTING=1 $
+    -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY $
+    -DENABLE_NOTIFICATIONS -DUSE_UDEV -DENABLE_EGLIMAGE=1 $
+    -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGINS=1 $
+    -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 $
+    -DENABLE_BACKGROUND=1 -DENABLE_GOOGLE_NOW=1 -DCLD_VERSION=2 $
+    -DCLD2_DATA_SOURCE=static -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 $
+    -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 $
+    -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 $
+    -DENABLE_MDNS=1 -DENABLE_SERVICE_DISCOVERY=1 -DLIBPEERCONNECTION_LIB=1 $
+    -DLINUX -DWEBRTC_LINUX -DHASH_NAMESPACE=__gnu_cxx -DPOSIX $
+    -DWEBRTC_POSIX -DDISABLE_DYNAMIC_CAST -D_REENTRANT $
+    -DGTEST_HAS_POSIX_RE=0 -DUNIT_TEST -DGTEST_HAS_RTTI=0 -DUSE_NSS=1 $
+    -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 $
+    -D_DEBUG -D_GLIBCXX_DEBUG=1
+includes = -Igen -I../.. -I../.. -I../../third_party $
+    -I../../third_party/webrtc -I../../webrtc -I../../testing/gtest/include $
+    -I../../testing/gtest -I../../third_party/libyuv/include $
+    -I../../third_party/libyuv
+cflags = -fstack-protector --param=ssp-buffer-size=4 -Werror -pthread $
+    -fno-exceptions -fno-strict-aliasing -Wno-unused-parameter $
+    -Wno-missing-field-initializers -fvisibility=hidden -pipe -fPIC $
+    -Wno-reserved-user-defined-literal -fcolor-diagnostics $
+    -B/home/maestro/everyphone/repo/trunk/third_party/binutils/Linux_x64/Release/bin $
+    -Wheader-hygiene -Wno-char-subscripts $
+    -Wno-unneeded-internal-declaration -Wno-covered-switch-default $
+    -Wstring-conversion -Wno-c++11-narrowing -Wno-deprecated-register $
+    -Wunused-variable -Wno-address-of-array-temporary -Wno-format $
+    -Wno-unused-result -m64 -march=x86-64 -O0 -g -funwind-tables -gsplit-dwarf
+cflags_c = 
+cflags_cc = -fno-rtti -fno-threadsafe-statics -fvisibility-inlines-hidden $
+    -std=gnu++11 -Wno-deprecated
+
+build obj/talk/media/base/libjingle_unittest_main.testutils.o: cxx $
+    ../../talk/media/base/testutils.cc
+build obj/talk/media/webrtc/libjingle_unittest_main.dummyinstantiation.o: $
+    cxx ../../talk/media/webrtc/dummyinstantiation.cc
+
+build obj/talk/libjingle_unittest_main.a: alink_thin $
+    obj/talk/media/base/libjingle_unittest_main.testutils.o $
+    obj/talk/media/webrtc/libjingle_unittest_main.dummyinstantiation.o

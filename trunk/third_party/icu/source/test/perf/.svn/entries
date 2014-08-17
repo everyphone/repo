@@ -1,0 +1,184 @@
+10
+
+dir
+287122
+http://src.chromium.org/svn/trunk/deps/third_party/icu52/source/test/perf
+http://src.chromium.org/svn
+
+
+
+2014-03-26T22:15:14.109269Z
+259715
+jshin@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ff67af0-8c30-449e-8e8b-ad334ec8d88c
+
+collationperf
+dir
+
+DateFmtPerf
+dir
+
+ucnvavailperf
+dir
+
+strsrchperf
+dir
+
+collperf
+dir
+
+ustrperf
+dir
+
+utfperf
+dir
+
+leperf
+dir
+
+perldriver
+dir
+
+howExpensiveIs
+dir
+
+ubrkperf
+dir
+
+icuperf2report.xsl
+file
+
+
+
+
+2014-08-16T17:12:03.046594Z
+9e3b773012f6d1cf16427536243464e0
+2014-03-26T22:15:14.109269Z
+259715
+jshin@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1145
+
+convperf
+dir
+
+Makefile.in
+file
+
+
+
+
+2014-08-16T17:12:03.042594Z
+39f0c4dc4233d2d2b73b58289abb600e
+2014-03-26T22:15:14.109269Z
+259715
+jshin@chromium.org
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2407
+
+unisetperf
+dir
+
+dicttrieperf
+dir
+
+utrie2perf
+dir
+
+normperf
+dir
+
+charperf
+dir
+
+usetperf
+dir
+
+README
+file
+
+
+
+
+2014-08-16T17:12:03.046594Z
+0713202f8349a4b770a04b919ce880ca
+2014-03-26T22:15:14.109269Z
+259715
+jshin@chromium.org
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2936
+

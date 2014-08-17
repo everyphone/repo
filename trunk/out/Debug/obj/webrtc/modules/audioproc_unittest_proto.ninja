@@ -1,0 +1,75 @@
+rule audioproc_unittest_proto_target_genproto_f61eb33d8813945fd149d3f498560061
+  command = cd ../../webrtc/modules; python $
+      ../../tools/protoc_wrapper/protoc_wrapper.py --include "" --protobuf $
+      "../../out/Debug/gen/protoc_out/webrtc/audio_processing/${root}.pb.h" $
+      --proto-in-dir audio_processing/test --proto-in-file "${root}${ext}" $
+      "--use-system-protobuf=0" -- ../../out/Debug/protoc --cpp_out $
+      ../../out/Debug/gen/protoc_out/webrtc/audio_processing --python_out $
+      ../../out/Debug/pyproto/webrtc/audio_processing
+  description = RULE Generating C++ and Python code from ${source}
+  restat = 1
+
+build pyproto/webrtc/audio_processing/unittest_pb2.py $
+    gen/protoc_out/webrtc/audio_processing/unittest.pb.cc $
+    gen/protoc_out/webrtc/audio_processing/unittest.pb.h: $
+    audioproc_unittest_proto_target_genproto_f61eb33d8813945fd149d3f498560061 $
+    ../../webrtc/modules/audio_processing/test/unittest.proto | $
+    ../../tools/protoc_wrapper/protoc_wrapper.py protoc || protoc
+  source = audio_processing/test/unittest.proto
+  ext = .proto
+  root = unittest
+build $
+    obj/webrtc/modules/audioproc_unittest_proto.actions_rules_copies.stamp: $
+    stamp pyproto/webrtc/audio_processing/unittest_pb2.py $
+    gen/protoc_out/webrtc/audio_processing/unittest.pb.cc $
+    gen/protoc_out/webrtc/audio_processing/unittest.pb.h
+
+defines = -DV8_DEPRECATION_WARNINGS -DBLINK_SCALE_FILTERS_AT_RECORD_TIME $
+    -D_FILE_OFFSET_BITS=64 -DCHROMIUM_BUILD -DCR_CLANG_REVISION=214024 $
+    -DTOOLKIT_VIEWS=1 -DUI_COMPOSITOR_IMAGE_TRANSPORT -DUSE_AURA=1 $
+    -DUSE_ASH=1 -DUSE_PANGO=1 -DUSE_CAIRO=1 -DUSE_GLIB=1 $
+    -DUSE_DEFAULT_RENDER_THEME=1 -DUSE_LIBJPEG_TURBO=1 -DUSE_X11=1 $
+    -DUSE_CLIPBOARD_AURAX11=1 -DENABLE_ONE_CLICK_SIGNIN $
+    -DENABLE_PRE_SYNC_BACKUP -DUSE_XI2_MT=2 -DENABLE_REMOTING=1 $
+    -DENABLE_WEBRTC=1 -DENABLE_PEPPER_CDMS -DENABLE_CONFIGURATION_POLICY $
+    -DENABLE_NOTIFICATIONS -DUSE_UDEV -DENABLE_EGLIMAGE=1 $
+    -DENABLE_TASK_MANAGER=1 -DENABLE_EXTENSIONS=1 -DENABLE_PLUGINS=1 $
+    -DENABLE_SESSION_SERVICE=1 -DENABLE_THEMES=1 -DENABLE_AUTOFILL_DIALOG=1 $
+    -DENABLE_BACKGROUND=1 -DENABLE_GOOGLE_NOW=1 -DCLD_VERSION=2 $
+    -DCLD2_DATA_SOURCE=static -DENABLE_FULL_PRINTING=1 -DENABLE_PRINTING=1 $
+    -DENABLE_SPELLCHECK=1 -DENABLE_CAPTIVE_PORTAL_DETECTION=1 $
+    -DENABLE_APP_LIST=1 -DENABLE_SETTINGS_APP=1 -DENABLE_MANAGED_USERS=1 $
+    -DENABLE_MDNS=1 -DENABLE_SERVICE_DISCOVERY=1 $
+    -DWEBRTC_MODULE_UTILITY_VIDEO -DWEBRTC_POSIX -DWEBRTC_LINUX $
+    -DPROTOBUF_USE_DLLS -DGOOGLE_PROTOBUF_NO_RTTI $
+    -DGOOGLE_PROTOBUF_NO_STATIC_INITIALIZER -DUSE_NSS=1 $
+    -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS $
+    -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DWTF_USE_DYNAMIC_ANNOTATIONS=1 $
+    -D_DEBUG -D_GLIBCXX_DEBUG=1
+includes = -Igen -I../.. -Igen/protoc_out -I../../third_party/protobuf $
+    -I../../third_party/protobuf/src
+cflags = -fstack-protector --param=ssp-buffer-size=4 -Werror -pthread $
+    -fno-exceptions -fno-strict-aliasing -Wall -Wno-unused-parameter $
+    -Wno-missing-field-initializers -fvisibility=hidden -pipe -fPIC $
+    -Wno-reserved-user-defined-literal -fcolor-diagnostics $
+    -B/home/maestro/everyphone/repo/trunk/third_party/binutils/Linux_x64/Release/bin $
+    -Wheader-hygiene -Wno-char-subscripts $
+    -Wno-unneeded-internal-declaration -Wno-covered-switch-default $
+    -Wstring-conversion -Wno-c++11-narrowing -Wno-deprecated-register $
+    -Wextra -Wno-unused-parameter -Wno-missing-field-initializers $
+    -Wno-strict-overflow -Wthread-safety -Wextra -Wno-unused-parameter $
+    -Wno-missing-field-initializers -Wno-strict-overflow -Wthread-safety $
+    -m64 -march=x86-64 -O0 -g -funwind-tables -gsplit-dwarf
+cflags_c = 
+cflags_cc = -fno-rtti -fno-threadsafe-statics -fvisibility-inlines-hidden $
+    -Wsign-compare -std=gnu++11 -Wnon-virtual-dtor -Woverloaded-virtual $
+    -Wnon-virtual-dtor -Woverloaded-virtual
+
+build $
+    obj/webrtc/modules/gen/protoc_out/webrtc/audio_processing/audioproc_unittest_proto.unittest.pb.o: $
+    cxx gen/protoc_out/webrtc/audio_processing/unittest.pb.cc || $
+    obj/webrtc/modules/audioproc_unittest_proto.actions_rules_copies.stamp
+
+build obj/webrtc/modules/libaudioproc_unittest_proto.a: alink_thin $
+    obj/webrtc/modules/gen/protoc_out/webrtc/audio_processing/audioproc_unittest_proto.unittest.pb.o $
+    || obj/webrtc/modules/audioproc_unittest_proto.actions_rules_copies.stamp

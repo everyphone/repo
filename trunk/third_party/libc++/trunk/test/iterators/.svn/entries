@@ -1,0 +1,83 @@
+10
+
+dir
+206024
+http://src.chromium.org/llvm-project/libcxx/trunk/test/iterators
+http://src.chromium.org/llvm-project
+
+
+
+2014-03-11T17:16:17.213614Z
+203587
+marshall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13822387-51bd-4730-8a9b-04cb6d7d6f7b
+
+iterators.general
+dir
+
+iterator.requirements
+dir
+
+version.pass.cpp
+file
+
+
+
+
+2014-08-16T17:11:01.098287Z
+40bfc270c9caf861c64f926daa5afb8d
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+475
+
+iterator.synopsis
+dir
+
+predef.iterators
+dir
+
+iterator.primitives
+dir
+
+iterator.range
+dir
+
+stream.iterators
+dir
+

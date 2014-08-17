@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/llvm-project/!svn/ver/193814/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.seeks
+END
+tellp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.seeks/tellp.pass.cpp
+END
+seekp.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.seeks/seekp.pass.cpp
+END
+seekp2.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/llvm-project/!svn/ver/193814/libcxx/trunk/test/input.output/iostream.format/output.streams/ostream.seeks/seekp2.pass.cpp
+END

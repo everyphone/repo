@@ -1,0 +1,77 @@
+10
+
+dir
+206024
+http://src.chromium.org/llvm-project/libcxx/trunk/test/containers/container.adaptors/stack
+http://src.chromium.org/llvm-project
+
+
+
+2013-12-03T00:18:10.405513Z
+196174
+marshall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13822387-51bd-4730-8a9b-04cb6d7d6f7b
+
+version.pass.cpp
+file
+
+
+
+
+2014-08-16T17:11:38.090470Z
+22dc90b5b69efdc186580e1ce3a26502
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+469
+
+stack.cons.alloc
+dir
+
+stack.defn
+dir
+
+stack.special
+dir
+
+stack.ops
+dir
+
+stack.cons
+dir
+

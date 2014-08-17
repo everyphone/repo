@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6027/deps/third_party/openmax/dl/sp/src/test/support
+END
+float_rfft_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5124/deps/third_party/openmax/dl/sp/src/test/support/float_rfft_neon.c
+END
+float_rfft_thresholds.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5124/deps/third_party/openmax/dl/sp/src/test/support/float_rfft_thresholds.h
+END
+float_rfft_x86.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5124/deps/third_party/openmax/dl/sp/src/test/support/float_rfft_x86.c
+END
+float_rfft_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6027/deps/third_party/openmax/dl/sp/src/test/support/float_rfft_detect.c
+END
+float_fft_armv7.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5124/deps/third_party/openmax/dl/sp/src/test/support/float_fft_armv7.c
+END
+float_rfft_armv7.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/5124/deps/third_party/openmax/dl/sp/src/test/support/float_rfft_armv7.c
+END
+float_fft_neon.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5124/deps/third_party/openmax/dl/sp/src/test/support/float_fft_neon.c
+END

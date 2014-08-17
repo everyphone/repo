@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locales/locale/locale.members
+END
+combine.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/localization/locales/locale/locale.members/combine.pass.cpp
+END
+name.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/llvm-project/!svn/ver/171594/libcxx/trunk/test/localization/locales/locale/locale.members/name.pass.cpp
+END

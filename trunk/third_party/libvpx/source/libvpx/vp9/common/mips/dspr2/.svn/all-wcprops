@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/271029/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2
+END
+vp9_convolve8_horiz_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve8_horiz_dspr2.c
+END
+vp9_mblpf_vert_loopfilter_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_mblpf_vert_loopfilter_dspr2.c
+END
+vp9_intrapred16_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/240981/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_intrapred16_dspr2.c
+END
+vp9_itrans32_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_itrans32_dspr2.c
+END
+vp9_itrans16_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_itrans16_dspr2.c
+END
+vp9_loopfilter_filters_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_loopfilter_filters_dspr2.c
+END
+vp9_mblpf_horiz_loopfilter_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_mblpf_horiz_loopfilter_dspr2.c
+END
+vp9_convolve2_avg_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve2_avg_dspr2.c
+END
+vp9_loopfilter_filters_dspr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_loopfilter_filters_dspr2.h
+END
+vp9_intrapred4_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/240981/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_intrapred4_dspr2.c
+END
+vp9_convolve2_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve2_dspr2.c
+END
+vp9_convolve2_vert_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve2_vert_dspr2.c
+END
+vp9_convolve8_avg_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve8_avg_dspr2.c
+END
+vp9_intrapred8_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/240981/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_intrapred8_dspr2.c
+END
+vp9_loopfilter_masks_dspr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_loopfilter_masks_dspr2.h
+END
+vp9_convolve8_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve8_dspr2.c
+END
+vp9_convolve8_vert_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve8_vert_dspr2.c
+END
+vp9_itrans4_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_itrans4_dspr2.c
+END
+vp9_convolve2_avg_horiz_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve2_avg_horiz_dspr2.c
+END
+vp9_itrans32_cols_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_itrans32_cols_dspr2.c
+END
+vp9_mbloop_loopfilter_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/241507/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_mbloop_loopfilter_dspr2.c
+END
+vp9_loopfilter_macros_dspr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/247516/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_loopfilter_macros_dspr2.h
+END
+vp9_itrans8_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/271029/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_itrans8_dspr2.c
+END
+vp9_convolve2_horiz_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve2_horiz_dspr2.c
+END
+vp9_convolve8_avg_horiz_dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/232233/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_convolve8_avg_horiz_dspr2.c
+END
+vp9_common_dspr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/251530/trunk/deps/third_party/libvpx/source/libvpx/vp9/common/mips/dspr2/vp9_common_dspr2.h
+END

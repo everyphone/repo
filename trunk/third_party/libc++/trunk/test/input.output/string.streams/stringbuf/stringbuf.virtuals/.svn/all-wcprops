@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals
+END
+pbackfail.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals/pbackfail.pass.cpp
+END
+seekoff.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals/seekoff.pass.cpp
+END
+overflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals/overflow.pass.cpp
+END
+underflow.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals/underflow.pass.cpp
+END
+setbuf.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals/setbuf.pass.cpp
+END
+seekpos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/input.output/string.streams/stringbuf/stringbuf.virtuals/seekpos.pass.cpp
+END

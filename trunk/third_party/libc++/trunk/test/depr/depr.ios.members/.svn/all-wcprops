@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.ios.members
+END
+open_mode.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.ios.members/open_mode.pass.cpp
+END
+seek_dir.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.ios.members/seek_dir.pass.cpp
+END
+streamoff.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.ios.members/streamoff.pass.cpp
+END
+io_state.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.ios.members/io_state.pass.cpp
+END
+streampos.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/depr/depr.ios.members/streampos.pass.cpp
+END

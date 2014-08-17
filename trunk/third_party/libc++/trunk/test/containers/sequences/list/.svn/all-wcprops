@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/llvm-project/!svn/ver/203479/libcxx/trunk/test/containers/sequences/list
+END
+iterators.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/llvm-project/!svn/ver/203479/libcxx/trunk/test/containers/sequences/list/iterators.pass.cpp
+END
+db_front.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_front.pass.cpp
+END
+db_cfront.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_cfront.pass.cpp
+END
+types.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/types.pass.cpp
+END
+db_back.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_back.pass.cpp
+END
+version.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/llvm-project/!svn/ver/119395/libcxx/trunk/test/containers/sequences/list/version.pass.cpp
+END
+db_iterators_6.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_iterators_6.pass.cpp
+END
+db_iterators_7.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_iterators_7.pass.cpp
+END
+db_cback.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_cback.pass.cpp
+END
+db_iterators_8.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/195785/libcxx/trunk/test/containers/sequences/list/db_iterators_8.pass.cpp
+END
+db_iterators_9.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/llvm-project/!svn/ver/189140/libcxx/trunk/test/containers/sequences/list/db_iterators_9.pass.cpp
+END

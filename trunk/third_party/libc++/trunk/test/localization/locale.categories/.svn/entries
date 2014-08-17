@@ -1,0 +1,86 @@
+10
+
+dir
+206024
+http://src.chromium.org/llvm-project/libcxx/trunk/test/localization/locale.categories
+http://src.chromium.org/llvm-project
+
+
+
+2014-01-16T16:58:45.310480Z
+199400
+marshall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13822387-51bd-4730-8a9b-04cb6d7d6f7b
+
+category.numeric
+dir
+
+category.collate
+dir
+
+category.ctype
+dir
+
+facets.examples
+dir
+
+category.messages
+dir
+
+category.monetary
+dir
+
+category.time
+dir
+
+facet.numpunct
+dir
+
+__scan_keyword.pass.cpp
+file
+
+
+
+
+2014-08-16T17:11:11.066336Z
+67a3e2c90853e6a46d3c995a72dc304b
+2010-11-16T22:09:02.120635Z
+119395
+hhinnant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5032
+

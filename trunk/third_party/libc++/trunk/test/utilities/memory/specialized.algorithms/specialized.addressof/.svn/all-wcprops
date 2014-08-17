@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/llvm-project/!svn/ver/179608/libcxx/trunk/test/utilities/memory/specialized.algorithms/specialized.addressof
+END
+addressof.pass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/llvm-project/!svn/ver/179608/libcxx/trunk/test/utilities/memory/specialized.algorithms/specialized.addressof/addressof.pass.cpp
+END
