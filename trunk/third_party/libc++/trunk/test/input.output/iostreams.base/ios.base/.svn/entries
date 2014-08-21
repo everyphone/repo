@@ -1,83 +1,0 @@
-10
-
-dir
-206024
-http://src.chromium.org/llvm-project/libcxx/trunk/test/input.output/iostreams.base/ios.base
-http://src.chromium.org/llvm-project
-
-
-
-2013-07-06T14:41:36.012672Z
-185756
-hhinnant
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13822387-51bd-4730-8a9b-04cb6d7d6f7b
-
-ios.base.storage
-dir
-
-ios.members.static
-dir
-
-ios.types
-dir
-
-ios.base.callback
-dir
-
-nothing_to_do.pass.cpp
-file
-
-
-
-
-2014-08-16T17:11:22.294392Z
-b9d077b07927997b7421717578c73e28
-2010-11-16T22:09:02.120635Z
-119395
-hhinnant
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-398
-
-fmtflags.state
-dir
-
-ios.base.cons
-dir
-
-ios.base.locales
-dir
-

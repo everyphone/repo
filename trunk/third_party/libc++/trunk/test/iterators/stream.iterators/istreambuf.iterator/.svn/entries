@@ -1,83 +1,0 @@
-10
-
-dir
-206024
-http://src.chromium.org/llvm-project/libcxx/trunk/test/iterators/stream.iterators/istreambuf.iterator
-http://src.chromium.org/llvm-project
-
-
-
-2010-11-16T22:09:02.120635Z
-119395
-hhinnant
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13822387-51bd-4730-8a9b-04cb6d7d6f7b
-
-istreambuf.iterator_op++
-dir
-
-istreambuf.iterator_equal
-dir
-
-istreambuf.iterator_op==
-dir
-
-istreambuf.iterator_op!=
-dir
-
-istreambuf.iterator.cons
-dir
-
-istreambuf.iterator_proxy
-dir
-
-types.pass.cpp
-file
-
-
-
-
-2014-08-16T17:10:58.458274Z
-dfee75d717a5a9795bb34367d9db16e6
-2010-11-16T22:09:02.120635Z
-119395
-hhinnant
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2261
-
-istreambuf.iterator_op_astrk
-dir
-

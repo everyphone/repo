@@ -1,86 +1,0 @@
-10
-
-dir
-6914
-http://webrtc.googlecode.com/svn/trunk/webrtc/modules/audio_coding/codecs
-http://webrtc.googlecode.com/svn
-
-
-
-2014-08-16T18:49:55.409929Z
-6913
-kjellander@webrtc.org
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-4adac7df-926f-26a2-2b94-8c16560cd09d
-
-isac
-dir
-
-g711
-dir
-
-tools
-dir
-
-g722
-dir
-
-opus
-dir
-
-cng
-dir
-
-pcm16b
-dir
-
-ilbc
-dir
-
-OWNERS
-file
-
-
-
-
-2014-08-16T17:10:00.073984Z
-a8abc576878de41ee2bcf813160e4229
-2012-10-22T18:19:23.224883Z
-2963
-andrew@webrtc.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-65
-

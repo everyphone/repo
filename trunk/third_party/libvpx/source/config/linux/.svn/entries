@@ -1,52 +1,0 @@
-10
-
-dir
-287125
-http://src.chromium.org/svn/trunk/deps/third_party/libvpx/source/config/linux
-http://src.chromium.org/svn
-
-
-
-2014-07-24T21:24:03.040054Z
-285378
-johannkoenig@chromium.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4ff67af0-8c30-449e-8e8b-ad334ec8d88c
-
-arm-neon-cpu-detect
-dir
-
-arm64
-dir
-
-mipsel
-dir
-
-arm-neon
-dir
-
-generic
-dir
-
-ia32
-dir
-
-arm
-dir
-
-x64
-dir
-

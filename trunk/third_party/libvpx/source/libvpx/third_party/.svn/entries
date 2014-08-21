@@ -1,40 +1,0 @@
-10
-
-dir
-287125
-http://src.chromium.org/svn/trunk/deps/third_party/libvpx/source/libvpx/third_party
-http://src.chromium.org/svn
-
-
-
-2014-07-28T17:09:02.833969Z
-285927
-fgalligan@chromium.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4ff67af0-8c30-449e-8e8b-ad334ec8d88c
-
-libyuv
-dir
-
-googletest
-dir
-
-x86inc
-dir
-
-libwebm
-dir
-
